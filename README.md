@@ -13,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/www.linkedin.com/in/nguyen-van-dat-nguyễn-9280ab377](https://www.linkedin.com/in/nguyen-van-dat-nguy%E1%BB%85n-9280ab377?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqhZDfCwVS16gThoIIkk3XA%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nguyen-van-dat-nguyễn-9280ab377" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nguyen-van-dat-nguyễn-9280ab377" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nguyễn Văn Đạt LinkedIn" height="30" width="40" />
+</a>
 <a href="https://fb.com/https://www.facebook.com/nguyen.at.487026?locale=vi_vn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nguyen.at.487026?locale=vi_vn" height="30" width="40" /></a>
 </p>
 
