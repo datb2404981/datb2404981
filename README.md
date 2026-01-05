@@ -78,20 +78,3 @@
   </tr>
 </table>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datb2404981&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Dat's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datb2404981&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datb2404981&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
-</div>
-
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
