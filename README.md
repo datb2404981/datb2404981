@@ -23,8 +23,6 @@
 
 ### 👨‍💻 About Me
 
-### 👨‍💻 About Me
-
 - 🎓 Software Engineering Student at **College of Information and Communication Technology (CICT) - CTU**.
 - 🔭 I’m currently building **ClawFlow (Multi-Agent AI Workspace & Workflow Automation)**.
 - 💼 My notable projects include a **NestChat (Realtime Chat Application)** and an **E-Commerce Web API**.
