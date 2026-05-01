@@ -23,13 +23,15 @@
 
 ### 👨‍💻 About Me
 
+### 👨‍💻 About Me
+
 - 🎓 Software Engineering Student at **College of Information and Communication Technology (CICT) - CTU**.
-- 🔭 I’m currently building **ClawFlow / OpenClaw** (A Multi-Agent AI Web Assistant), alongside **Realtime Chat App (NestChat)**.
+- 🔭 I’m currently building **ClawFlow (Multi-Agent AI Workspace & Workflow Automation)**.
+- 💼 My notable projects include a **NestChat (Realtime Chat Application)** and an **E-Commerce Web API**.
 - 🌱 I’m deeply focused on **AI Multi-Agent Systems (LangGraph), LLMs integration, NestJS Microservices, and System Design**.
 - 🎯 **Goal:** Seeking an **AI Application Engineer Internship** starting in May 2026.
 - 💬 Ask me about **NestJS, TypeScript, System Architecture, and AI Application logic**.
 - ⚡ Fun fact: I love turning coffee into clean code and smart agents ☕🤖.
-
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -83,8 +85,9 @@
 
 ### 🚀 Core Competencies
 
-- **AI Service & Data:** Python 3, FastAPI, LangGraph / LangChain, Playwright (Browser Automation), PyMongo. Integration with Google Generative AI & Ollama. Implementing RAG (Retrieval-Augmented Generation) with Vector + Text search on MongoDB.
-- **Backend Architecture:** NestJS 11, TypeScript, BullMQ + Redis for task queues, Socket.IO for Real-time bidirectional event-based communication.
-- **Frontend & UI:** React 19, Vite 8, React Router 7, Tailwind CSS 4, React Markdown + GFM.
-- **Database & Auth:** Mongoose 9, MongoDB, Passport (JWT + Google OAuth).
-- **DevOps & QA:** Docker, ESLint, Prettier, Jest (Backend unit testing), pytest (AI_Core testing).
+- **Backend Development:** NestJS, Express.js, FastAPI.
+- **Multi-Agent Systems:** LangGraph, LangChain.
+- **AI & Data:** RAG (Retrieval-Augmented Generation), Vector Search, Google Generative AI (Gemini), Ollama, Hugging Face.
+- **API & Real-time:** RESTful APIs, WebSockets, Socket.IO.
+- **Database Management:** MongoDB, MySQL, Prisma ORM, Redis, BullMQ.
+- **Tools & DevOps:** Docker, Git/GitHub, GitHub CI/CD, AWS S3, JWT/OAuth2.
